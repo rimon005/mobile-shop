@@ -2,3 +2,15 @@
 .background-gradient{
     background-image: linear-gradient(90deg, blue, rgb(185, 6, 170));
 }
+.card img{
+    width: 64px;
+    height: 64px;
+}
+.writing{
+    background-image: url(./images/background.png);
+    height: 70vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-blend-mode: overlay;
+}
